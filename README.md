@@ -23,6 +23,6 @@ Post-processing Procedure
 When the resources will be available and in the right format/shape the administrator has to create a new Course (with a title and a date required) and upload the material for synchronization.  
 
 
-Licence
+License
 ========
 This software is licensed under the GNU GENERAL PUBLIC LICENSE. For more information, read the file <a href="LICENSE">LICENSE</a>.
