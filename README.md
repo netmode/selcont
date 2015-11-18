@@ -25,4 +25,4 @@ When the resources will be available and in the right format/shape the administr
 
 Licence
 ========
-This software is licensed under the GNU GENERAL PUBLIC LICENSE. For more information, read the file LICENCE.
+This software is licensed under the GNU GENERAL PUBLIC LICENSE. For more information, read the file <a href="LICENCE">LICENCE</a>.
