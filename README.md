@@ -5,7 +5,7 @@ Synchronized eLearning Content Toolkit
 
 <a href="http://webvm.netmode.ntua.gr/courses/?lectures=introduction-to-selcont" target="_blank">http://webvm.netmode.ntua.gr/courses/?lectures=introduction-to-selcont</a>
 
-The final course page will be consisted from these different elements: 
+The final course page consists of these elements: 
 <ul>
 <li>An area that renders the slides. "Slides" is the result from the presentation file (ppt) and the notes from instructor's tablet during the course</li>
 <li>An area that renders the video. Video is the export file from the camera inside the auditorium</li>
