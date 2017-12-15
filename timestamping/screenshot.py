@@ -49,12 +49,12 @@ def take_screen(i):
         global screenshot_num
         timestamp = get_timestamp()
 
-        picFolder = os.path.normpath(os.path.expanduser("~\Pictures\SeLCont"))
+        picFolder = os.path.normpath(os.path.expanduser("~\SeLCont"))
 
         s = wx.ScreenDC()
         w, h = s.Size.Get()
-        b = wx.EmptyBitmap(w, h)
-        m = wx.MemoryDCFromDC(s)
+        b = wx.Bitmap(w, h)
+        m = wx.MemoryDC(s)
         m.SelectObject(b)
         m.Blit(0, 0, w, h, s, 0, 0)
         m.SelectObject(wx.NullBitmap)
