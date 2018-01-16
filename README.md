@@ -3,7 +3,7 @@ SeLCont
 
 Synchronized eLearning Content Toolkit
 
-You can see a SeLCont ten-minute demo (Introduction to SeLCont) at: <a href="http://webvm.netmode.ntua.gr/courses/?lectures=introduction-to-selcont-english" target="_blank">SeLCont Demo</a>
+For a SeLCont ten-minute demo lecture (Introduction to SeLCont) click <a href="http://webvm.netmode.ntua.gr/courses/?lectures=introduction-to-selcont-english" target="_blank">here</a>
 
 
 The final course page consists of these elements: 
