@@ -87,6 +87,59 @@
     display: block;
 }
 
+/* Devices with width over 1200px*/
+@media screen and (min-width: 1200px) {
+	.selcont-slides {
+        width: 580px;
+
+    }
+	.selcont-video {
+        padding-top: 1em;
+    }
+	.selcont-meta {
+        padding:2em;
+    }
+}
+
+@media screen and (min-width: 1300px) {
+	.selcont-slides {
+        width: 620px;
+
+    }
+	.selcont-video {
+        padding-top: 2em;
+    }
+	.selcont-meta {
+        padding:2em;
+    }
+}
+
+@media screen and (min-width: 1400px) {
+	.selcont-slides {
+        width: 670px;
+
+    }
+	.selcont-video {
+        padding-top: 3em;
+    }
+	.selcont-meta {
+        padding:2em;
+    }
+}
+
+@media screen and (min-width: 1600px) {
+	.selcont-slides {
+        width: 750px;
+
+    }
+	.selcont-video {
+        padding-top: 4em;
+    }
+	.selcont-meta {
+        padding:2em;
+    }
+}
+
 /* Extra Small Devices, Phones */
 @media only screen and (max-width: 640px) {
     .selcont-video {
