@@ -3,7 +3,8 @@ SeLCont
 
 Synchronized eLearning Content Toolkit
 
-<a href="http://webvm.netmode.ntua.gr/courses/?lectures=introduction-to-selcont-english" target="_blank">http://webvm.netmode.ntua.gr/courses/?lectures=introduction-to-selcont-english</a>
+<a href="http://webvm.netmode.ntua.gr/courses/?lectures=introduction-to-selcont-english" target="_blank">SeLCont Demo (in English)</a>
+<a href="http://webvm.netmode.ntua.gr/courses/?lectures=introduction-to-selcont" target="_blank">SeLCont Demo (in Greek)</a>
 
 The final course page consists of these elements: 
 <ul>
