@@ -479,6 +479,7 @@ class Selcont_Admin {
         $repeatable_fields = get_post_meta($post->ID, 'repeatable_fields', true);
 
         if ( empty( $repeatable_fields ) ){
+	    $repeatable_fields = [];
             $repeatable_fields[] = array (
                 'stt_meta_box_image' => '',
                 'stt_meta_box_title' => '',
